@@ -1,0 +1,3 @@
+bitcoin==1.1.42
+leveldb==0.194
+sha3==0.2.1
